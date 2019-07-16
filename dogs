@@ -1,0 +1,3 @@
+$# = number of argument.
+$$ = process id (pid) of current shell.
+$0 = name of the shell or shell script.
